@@ -1,8 +1,5 @@
 # 📈 SEM Market Intelligence: Optimización Financiera y Asignación de Capital en Pauta Digital (Ecuador - USD)
 
-![Excel](https://shields.io)
-![Mercado](https://shields.io)
-![Status](https://shields.io)
 
 ## 🎯 1. Caso de Negocio y Problema de Industria
 En el ecosistema bancario y de cooperativas de Ecuador, la adquisición de usuarios a través de canales digitales representa uno de los mayores centros de costo operativo. Cuando las instituciones configuran sus presupuestos publicitarios basándose únicamente en el volumen bruto de tráfico, cometen un **error de asignación de capital crítico**, invirtiendo en subastas sobrevaloradas que inflan el Costo de Adquisición de Clientes (CAC) y erosionan el margen financiero de la institución.
@@ -29,4 +26,4 @@ Al cruzar la **Demanda** frente al **Precio Marginal Máximo en USD**, el modelo
 ## 📈 4. Conclusiones y Recomendaciones para la Gerencia General (GG)
 *   **Optimización del Gasto:** Se sugiere concentrar el 70% del presupuesto de pauta en los términos del Cuadrante 1. Asumiendo una tasa de clics estándar de la industria bancaria del 5% (CTR), capturar este tráfico garantiza volumen masivo reduciendo al mínimo el Costo de Adquisición de Clientes (CAC).
 *   **Blindaje Presupuestario:** Se recomienda "negativizar" o bloquear de forma inmediata las palabras del Cuadrante de Riesgo y términos basura extranjeros en la configuración de la cuenta de Ecuador. Esto evita clics accidentales de baja conversión que agoten el presupuesto diario en pocas horas.
-*   **Pertinencia Local:** La inclusión de las principales cooperativas reguladas por la **SEPS** (ej. *Cooperativa JEP* o *Alianza del Valle*) y bancos locales blinda la inversión publicitaria, enfocando el dinero de la institución exclusivamente en el público objetivo dentro del territorio nacional.
+*   **Pertinencia Local:** La inclusión de las principales cooperativas reguladas por la **SEPS** y bancos locales blinda la inversión publicitaria, enfocando el dinero de la institución exclusivamente en el público objetivo dentro del territorio nacional.
